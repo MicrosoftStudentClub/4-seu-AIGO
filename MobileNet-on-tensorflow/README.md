@@ -36,7 +36,7 @@ See ```./pretrained```.
 
 **Loss**
 <div align="center">
-<img src="https://github.com/SugarMasuo/MobileNet-on-tensorflow/blob/master/result/loss.png"><br><br>
+<img src="https://github.com/SugarMasuo/4-seu-AIGO/blob/master/MobileNet-on-tensorflow/result/loss.png"><br><br>
 </div>
 
 

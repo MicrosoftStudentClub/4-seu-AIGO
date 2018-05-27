@@ -1,6 +1,6 @@
 # ResNet
 
-This implementation of [Resnet](http://arxiv.org/abs/1512.03385) is designed to be straightforward and friendly to Resnet freshman. 
+This implementation of [Resnet:Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385) is designed to be straightforward and friendly to Resnet freshman. 
 
 The official implementation is avaliable at [tensorflow/model](https://github.com/tensorflow/models/blob/master/research/slim/nets/resnet_v2.py).The official implementation of object detection is also released at [tensorflow/model/object_detection](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
